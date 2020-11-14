@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc9646b8-6e26-4960-9b04-9907f8167d3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_novocode_junit_interface_0_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__junit_junit_4_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_13_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_sbt_test_interface_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/progfun1-objsets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.scalafix.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/MOOCSettings.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/StudentTasks.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/buildSettings.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3910723b3879d72bb461$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3910723b3879d72bb461.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3910723b3879d72bb461.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3c59609506eddf6efa6d$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3c59609506eddf6efa6d.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$3c59609506eddf6efa6d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$4d66d416eb1e07b5763f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$4d66d416eb1e07b5763f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$4d66d416eb1e07b5763f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$79b275a927d1b01ed1c8$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$79b275a927d1b01ed1c8.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$79b275a927d1b01ed1c8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$a282e29501616cac73d4$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$a282e29501616cac73d4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$a282e29501616cac73d4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$b36e8f3f08b931519b0f$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$b36e8f3f08b931519b0f.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/project/target/config-classes/$b36e8f3f08b931519b0f.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/scala-week3-objsets-compile/.sbt-idea-lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/scala-week3-objsets-compile/compilation-info-34775243-7d19-4456-a5cd-3be1ac5a5c36" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/scala-week3-objsets-compile/compilation-info-7ff7536d-c4e7-45be-a954-e8d6f3a85f51" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/scala-week3-objsets-compile/compilation-info-84cef63e-bf2d-4cd2-aec2-43fc01366e40" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/scala-week3-objsets-compile/compilation-info-8741580f-dde0-4e58-9233-aa2607ab4d13" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/.sbt-compilation-infos/scala-week3-objsets-compile/compilation-info-8c2c0923-1b60-447e-acc1-501cd264b979" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3886a8df65dc0c68762b$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3886a8df65dc0c68762b.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$3886a8df65dc0c68762b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$55fdfb130909f0d1522d$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$55fdfb130909f0d1522d.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$55fdfb130909f0d1522d.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6647620a1e42a918a4b6$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6647620a1e42a918a4b6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6647620a1e42a918a4b6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6e47fb0f0e32b50e3abb$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6e47fb0f0e32b50e3abb.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$6e47fb0f0e32b50e3abb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7f0a6f16e1c66e34082b$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7f0a6f16e1c66e34082b.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$7f0a6f16e1c66e34082b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$8c5d4853e038dc297764$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$8c5d4853e038dc297764.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$8c5d4853e038dc297764.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b5f103dca1211fecb194$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b5f103dca1211fecb194.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$b5f103dca1211fecb194.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c3c7c8d144fda1540cc6$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c3c7c8d144fda1540cc6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$c3c7c8d144fda1540cc6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fceb0775bbee07de5819$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fceb0775bbee07de5819.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/config-classes/$fceb0775bbee07de5819.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/CourseraId.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings$autoImport$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/MOOCSettings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks$autoImport$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/ch/epfl/lamp/StudentTasks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-week3-objsets-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/scala-week3-objsets-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-scala-week3-objsets-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resource_managed/main/sbt/sbt.autoplugins" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetData.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetReader.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetSet.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/objsets/TweetSetInterface.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/objsets/TweetSetSuite.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/Cons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/Empty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/GoogleVsApple$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/GoogleVsApple.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/Main$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/Main$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/Nil$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/Nil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/NonEmpty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/Tweet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/TweetData$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/TweetData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/TweetList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/TweetReader$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/TweetReader$ParseTweets$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/TweetReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/TweetSet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/classes/objsets/TweetSetInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/progfun1-objsets-without-resources_2.13-0.1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/progfun1-objsets_2.13-0.1.0-SNAPSHOT-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/submission.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite$$anon$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite$$anon$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite$$anon$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite$$anon$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite$$anon$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite$$anon$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite$$anon$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite$$anon$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite$$anon$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite$TestSets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/scala-2.13/test-classes/objsets/TweetSetSuite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierArtifacts/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierClassifiersArtifacts/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/coursierResolutions/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/submit/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.13.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBinWithoutResources/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBinWithoutResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageBinWithoutResources/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSourcesOnly/$global/streams/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSourcesOnly/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/packageSourcesOnly/$global/streams/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/scalafix/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1k1Po50arCw8f2uWhu7IkVKMGTc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="JUnit.TweetSetSuite.mostRetweeted$u0020test">
+    <configuration name="TweetSetSuite.descending$colon$u0020set5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="descending$colon$u0020set5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.filter$colon$u0020a$u0020on$u0020set5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="filter$colon$u0020a$u0020on$u0020set5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.filter$colon$u0020twenty$u0020on$u0020set5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="filter$colon$u0020twenty$u0020on$u0020set5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.mostRetweeted$u0020test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="mostRetweeted$u0020test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetSetSuite.union$colon$u0020set4c$u0020and$u0020set4d" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="progfun1-objsets" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="objsets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="objsets" />
+      <option name="MAIN_CLASS_NAME" value="objsets.TweetSetSuite" />
+      <option name="METHOD_NAME" value="union$colon$u0020set4c$u0020and$u0020set4d" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TweetSetSuite.mostRetweeted$u0020test" />
+        <item itemvalue="JUnit.TweetSetSuite.union$colon$u0020set4c$u0020and$u0020set4d" />
+        <item itemvalue="JUnit.TweetSetSuite.filter$colon$u0020twenty$u0020on$u0020set5" />
+        <item itemvalue="JUnit.TweetSetSuite.filter$colon$u0020a$u0020on$u0020set5" />
+        <item itemvalue="JUnit.TweetSetSuite.descending$colon$u0020set5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="progfun1-objsets" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-week3-objsets [file:/Users/janjan_uary/Downloads/Study-Scala/scala-week3-objsets/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="progfun1-objsets-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1371009884" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../scala-week1-recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-week2-funsets" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc9646b8-6e26-4960-9b04-9907f8167d3e" name="Default Changelist" comment="" />
+      <created>1604865296013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604865296013</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1356" height="229" key="GridCell.Tab.0.bottom" timestamp="1605397582826">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1356" height="229" key="GridCell.Tab.0.bottom/0.23.1440.873@0.23.1440.873" timestamp="1605397582826" />
+    <state width="1356" height="229" key="GridCell.Tab.0.center" timestamp="1605397582825">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1356" height="229" key="GridCell.Tab.0.center/0.23.1440.873@0.23.1440.873" timestamp="1605397582825" />
+    <state width="1356" height="229" key="GridCell.Tab.0.left" timestamp="1605397582824">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1356" height="229" key="GridCell.Tab.0.left/0.23.1440.873@0.23.1440.873" timestamp="1605397582824" />
+    <state width="1356" height="229" key="GridCell.Tab.0.right" timestamp="1605397582825">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state width="1356" height="229" key="GridCell.Tab.0.right/0.23.1440.873@0.23.1440.873" timestamp="1605397582825" />
+    <state x="250" y="98" key="SettingsEditor" timestamp="1605396457083">
+      <screen x="0" y="23" width="1440" height="873" />
+    </state>
+    <state x="250" y="98" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1605396457083" />
+  </component>
+</project>
